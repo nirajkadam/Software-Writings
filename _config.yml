@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Kiko Now
+name: Niraj Kadam
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: on software development
 
 #
 # Flags below are optional
@@ -41,19 +41,19 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: AWEEKJ/kiko-now
+  github: nirajkadam
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  tumblr: # https://<username>.tumblr.com
-  twitter: jekyllrb
+  tumblr: https://nirajkadam.tumblr.com
+  twitter: niirajkadam
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
-footer-text: © 2017 Kiko Now
+footer-text: © 2018 Niraj Kadam
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
