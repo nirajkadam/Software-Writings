@@ -594,3 +594,23 @@ footer {
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
+
+// code and explanation reference to:
+// https://benmarshall.me/responsive-iframes/
+
+.iframe-container {
+  overflow: hidden;
+  // Calculated from the aspect ration of the content
+  // (in case of 16:9 it is 9/16= 0.5625)
+  padding-top: 56.25%;
+  position: relative;
+}
+
+.iframe-container iframe {
+   border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;
+}
