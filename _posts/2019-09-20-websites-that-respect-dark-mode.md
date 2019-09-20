@@ -57,9 +57,9 @@ One last thing in the process is to choose the better (appropriate) versions of 
 
 Here are few of my favorite dark theme color palates from this cool [website](https://colorhunt.co/palettes/dark).
 
-![Palate-01](https://github.com/nirajkadam/nirajkadam.github.io/blob/master/images/dark-mode-themes/Palate-01.png?raw=true){: .adjacent-images} ![Palate-02](https://github.com/nirajkadam/nirajkadam.github.io/blob/master/images/dark-mode-themes/Palate-02.png?raw=true){: .adjacent-images}
-![Palate-03](https://github.com/nirajkadam/nirajkadam.github.io/blob/master/images/dark-mode-themes/Palate-03.png?raw=true){: .adjacent-images}
-![Palate-04](https://github.com/nirajkadam/nirajkadam.github.io/blob/master/images/dark-mode-themes/Palate-04.png?raw=true){: .adjacent-images}
+![Palate-01](https://github.com/nirajkadam/nirajkadam.github.io/blob/master/images/dark-mode-themes/Palate-01.png?raw=true){: .clearfix:after} ![Palate-02](https://github.com/nirajkadam/nirajkadam.github.io/blob/master/images/dark-mode-themes/Palate-02.png?raw=true){: .clearfix:after}
+![Palate-03](https://github.com/nirajkadam/nirajkadam.github.io/blob/master/images/dark-mode-themes/Palate-03.png?raw=true){: .clearfix:after}
+![Palate-04](https://github.com/nirajkadam/nirajkadam.github.io/blob/master/images/dark-mode-themes/Palate-04.png?raw=true){: .clearfix:after}
 
 Here's a small example of the difference:
 
