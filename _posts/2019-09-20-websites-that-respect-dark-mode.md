@@ -56,6 +56,6 @@ One last thing in the process is to choose the better (appropriate) versions of 
 
 Here's a small example of the difference:
 
-<iframe width="420" height="315" src="http://www.youtube.com/watch?v=tVOOGUFnf9Y" frameborder="0" allowfullscreen></iframe>
+[![dark-mode](http://img.youtube.com/vi/tVOOGUFnf9Y/0.jpg)](http://www.youtube.com/watch?v=tVOOGUFnf9Y "dark-mode-example")
 
 Thank you for stopping by.
