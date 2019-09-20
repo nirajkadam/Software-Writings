@@ -5,6 +5,7 @@ tags:
   - dark-mode
   - macOS
   - iOS
+youtubeId: tVOOGUFnf9Y
 ---
 
 For the past few days while working late nights, I figured that the dark text on light background in spite of having an extremely low brightness and contrasts on my screen gave me headaches. I know I'm pretty late here but I immediately turned to the dark themes on IDE to realize that I should start using macOS's (or any other OS's) dark mode for easier and longer usage without the strain on the eyes and no headaches.
@@ -56,6 +57,6 @@ One last thing in the process is to choose the better (appropriate) versions of 
 
 Here's a small example of the difference:
 
-[![dark-mode](http://img.youtube.com/vi/tVOOGUFnf9Y/0.jpg)](http://www.youtube.com/watch?v=tVOOGUFnf9Y "dark-mode-example")
+{% include youtubePlayer.html id=page.youtubeId %}
 
 Thank you for stopping by.
