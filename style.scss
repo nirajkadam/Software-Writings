@@ -263,7 +263,7 @@ img {
 }
 
 // Placing images adjacent to each other
-.adjacent-images img {
+img.adjacent-images {
   margin: 0 0 1em;
   border-radius: 5px;
   content: " ";
