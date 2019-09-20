@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Websites that respect macOS Mojave's and iOS 13's dark mode!
+title: Respecting the dark mode on the web!
 tags:
   - dark-mode
   - macOS
@@ -51,7 +51,7 @@ html {
 }
 ```
 
-The best part about this adaptation is also the fact that the websites can have 2 different set of images to the 2 schemes (light/dark) which is now kind of intuitive if you think about it. After making this small change I noticed that all the known developers in the community like Mattt who authors [NSHipster](http://nshipster.com/) or David Smith who writes [his blog](https://david-smith.org) had already made this change!
+The best part about this adaptation is also the fact that the websites can have 2 different set of images to the 2 schemes (light/dark) which is now kind of intuitive if you think about it. After making this small change I noticed that all the known developers in the community like Mattt who authors [NSHipster](http://nshipster.com/) or David Smith who writes [his blog](https://david-smith.org) had already made this change! Undoubtedly, this wave will hit the future of web design and thus will enable better web!
 
 One last thing in the process is to choose the better (appropriate) versions of light and dark color palates for the webpages.
 
