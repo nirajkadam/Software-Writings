@@ -55,6 +55,14 @@ The best part about this adaptation is also the fact that the websites can have 
 
 One last thing in the process is to choose the better (appropriate) versions of light and dark color palates for the webpages.
 
+Here are few of my favorite dark theme color palates from this cool [website](https://colorhunt.co/palettes/dark).
+
+![Palate-01](https://github.com/nirajkadam/nirajkadam.github.io/blob/master/images/dark-mode-themes/Palate-01.png?raw=true "Palate 01")
+![Palate-02](https://github.com/nirajkadam/nirajkadam.github.io/blob/master/images/dark-mode-themes/Palate-02.png?raw=true "Palate 02")
+![Palate-03](https://github.com/nirajkadam/nirajkadam.github.io/blob/master/images/dark-mode-themes/Palate-03.png?raw=true "Palate 03")
+![Palate-04](https://github.com/nirajkadam/nirajkadam.github.io/blob/master/images/dark-mode-themes/Palate-04.png?raw=true "Palate 04")
+
+
 Here's a small example of the difference:
 
 {% include youtubePlayer.html id=page.youtubeId %}
