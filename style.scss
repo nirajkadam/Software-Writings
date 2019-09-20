@@ -256,8 +256,19 @@ a.footnote {
 
 // Image
 img {
+  display: block;
+  max-width: 100%;
   margin: 0 0 1em;
   border-radius: 5px;
+}
+
+// Placing images adjacent to each other
+.adjacent-images img {
+  margin: 0 0 1em;
+  border-radius: 5px;
+  content: " ";
+  display: table;
+  clear: both;
 }
 
 // Fixes images in popup boxes from Google Translate
