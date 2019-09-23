@@ -24,23 +24,15 @@ The process becomes easier by using CSS variables as follows:
 ```css
 /* Defaults */
 :root {
-    --background-color: white;
-    --text-color: black;
-}
-
-/* Light mode */
-@media (prefers-color-scheme: light) {
-    :root {
-        --background-color: white;
-        --text-color: black;
-    }
+    --background-color: #ffffff;
+    --text-color: #000000;
 }
 
 /* Dark mode */
 @media (prefers-color-scheme: dark) {
     :root {
-        --background-color: black;
-        --text-color: white;
+        --background-color: #000000;
+        --text-color: #ffffff;
     }
 }
 
