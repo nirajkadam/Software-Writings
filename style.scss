@@ -10,12 +10,34 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
+/*******************/
+/* DARK MODE RULES */
+/*******************/
+
+/* Defaults */
+:root {
+  --background-color: #ffffff;
+  --text-color: #000000;
+}
+
+/* Dark Mode */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #000000;
+    --text-color: #ffffff;
+  }
+}
+
 /**************/
 /* BASE RULES */
 /**************/
 
 html {
   font-size: $base-font-size;
+
+  // Dark mode colors. Yet to work on links, titles, images, etc. (work in progress)
+  background: var(--background-color);
+  color: var(--text-color);
 }
 
 body {
